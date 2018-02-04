@@ -1,0 +1,15 @@
+header, footer, div, main, nav{
+    padding:0.5rem;
+    margin: 0.5rem;
+}
+header, footer, div, main{
+    border: 1px solid #aaa;
+}
+
+nav{
+    border:1px solid #f77;
+}
+
+header a{
+    text-decoration: none;
+}
